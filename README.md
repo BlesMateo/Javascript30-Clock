@@ -10,4 +10,4 @@ An simple application that displays time through movement of short hand.
 # App Demo
 
 Checkout the app demo:
-!["App Demo"](https://github.com/BlesMateo/Javascript30-DrumKit/blob/master/gifs/Drumkit.gif)
+!["App Demo"](https://github.com/BlesMateo/Javascript30-Clock/blob/master/docs/Javascript30-Clock.gif)
