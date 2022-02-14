@@ -64,7 +64,12 @@
         transition-timing-function: cubic-bezier(0.1, 2.7, 0.58, 1);
       }
     </style>
-
-    <script></script>
+    <script>
+      const setDate = () => {
+        const now = newDate();
+        const seconds = now.getSeconds();
+      };
+      setInterval(setDate, 1000);
+    </script>
   </body>
 </html>
